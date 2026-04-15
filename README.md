@@ -1,4 +1,7 @@
-# React + Vite
+# Intro to React - GWC
+This works off of the existing React + Vite template to provide an introduction to the basics of React. Follow along with the slides uploaded on Discord!
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
