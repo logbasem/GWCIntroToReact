@@ -1,0 +1,16 @@
+.header {
+    padding: 40px;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 30%;
+    align-self: center;
+    padding: 20px;
+}
+
+.counter {
+    align-self: center;
+}
